@@ -45,7 +45,7 @@ This is where I am currently focusing my energy. I am moving from structure (HTM
 
 ---
 
-📫 **Email:** enomfonubong0@gmail.com
+📫 **Email:** enomfonubong9@gmail.com
 
 <!--
 **vertex192/vertex192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
