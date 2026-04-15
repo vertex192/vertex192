@@ -11,17 +11,18 @@ Currently, I have established a strong and confident foundation in HTML5. I prid
 ### 🚀 My Dynamic Learning Roadmap
 This is where I am currently focusing my energy. I am moving from structure (HTML) to style (CSS), logic (JS), and frameworks (React).
 
-- **HTML5** (Current Strength)
-![Progress](https://geps.dev) 
+-- **HTML5** (Current Strength)
+![95%](https://shields.io)
 
 - **CSS3** (Focusing on Flexbox & Grid)
-![Progress](https://geps.dev)
+![40%](https://shields.io)
 
 - **JavaScript** (Starting Soon)
-![Progress](https://geps.dev)
+![10%](https://shields.io)
 
 - **React & JSON** (Future Milestone)
-![Progress](https://geps.dev)
+![0%](https://shields.io)
+
 
 ---
 
